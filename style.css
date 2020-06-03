@@ -1,0 +1,40 @@
+.container{
+  padding:10px;
+  width:380px;
+  margin:0 auto;
+}
+.header{
+  color: red;
+  text-align: center;
+}
+.playerTurn{
+  text-align: center;
+}
+.table{
+  border: 1px solid black;
+  border-collapse: collapse;
+  height: 350px;
+  width: 350px
+}
+table{
+}
+.block{
+  position:relative;
+  font-size: 100px;
+  border: 1px solid black;
+  height: 110px;
+  width: 110px;
+  text-align: center;
+}
+/*.fa{
+  align-items: center;
+  align-self: center;
+}*/
+.text{
+  font-size: 110px;
+  margin-top: 0;
+  margin-bottom:0;
+  height: 110px;
+  width: 110px;
+  text-align: center;
+}
